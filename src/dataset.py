@@ -12,3 +12,4 @@ for i in range(0,20):
     G.add_edge((edges[i].split(' '))[0], (edges[i].split(' '))[1])
 
 edgeFile.close()
+# end dataset
